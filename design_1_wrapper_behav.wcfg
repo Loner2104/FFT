@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="design_1_wrapper_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="design_1_wrapper" />
+            <top_module name="glbl" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="9.070000 us"></ZoomStartTime>
+      <ZoomEndTime time="20.140001 us"></ZoomEndTime>
+      <Cursor1Time time="11.275000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="214"></NameColumnWidth>
+      <ValueColumnWidth column_width="215"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wave_markers>
+      <marker time="19597288" label="" />
+   </wave_markers>
+   <wvobject fp_name="/design_1_wrapper/Q_0" type="array">
+      <obj_property name="ElementShortName">Q_0[19:0]</obj_property>
+      <obj_property name="ObjectShortName">Q_0[19:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/design_1_wrapper/S_0" type="array">
+      <obj_property name="ElementShortName">S_0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">S_0[63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+   </wvobject>
+   <wvobject fp_name="/design_1_wrapper/clock_out" type="logic">
+      <obj_property name="ElementShortName">clock_out</obj_property>
+      <obj_property name="ObjectShortName">clock_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/design_1_wrapper/m_axis_data_tdata_0" type="array">
+      <obj_property name="ElementShortName">m_axis_data_tdata_0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_data_tdata_0[63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+   </wvobject>
+   <wvobject fp_name="/design_1_wrapper/m_axis_data_tvalid_0" type="logic">
+      <obj_property name="ElementShortName">m_axis_data_tvalid_0</obj_property>
+      <obj_property name="ObjectShortName">m_axis_data_tvalid_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/design_1_wrapper/out_wave1" type="array">
+      <obj_property name="ElementShortName">out_wave1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_wave1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/design_1_wrapper/out_wave2" type="array">
+      <obj_property name="ElementShortName">out_wave2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_wave2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/design_1_wrapper/pre_wave" type="array">
+      <obj_property name="ElementShortName">pre_wave[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pre_wave[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="CustomSignalColor">#800080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+</wave_config>
